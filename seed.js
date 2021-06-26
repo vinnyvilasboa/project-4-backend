@@ -2,6 +2,7 @@
 const { Movie } = require('./models');
 
 Movie.create([
+    // Jordan's Code
     {
         "Title": "The Shawshank Redemption",
         "Year": "1994",
@@ -82,6 +83,52 @@ Movie.create([
         "Website": "N/A",
         "Response": "True"
     },
+    // Vinny's Code
+
+    // Brandon's Code
+
+    //Jake's Code
+    {
+        "Title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "Year": "1964",
+        "Rated": "PG",
+        "Released": "29 Jan 1964",
+        "Runtime": "95 min",
+        "Genre": "Comedy",
+        "Director": "Stanley Kubrick",
+        "Writer": "Stanley Kubrick (screenplay), Terry Southern (screenplay), Peter George (screenplay), Peter George (based on the book: \"Red Alert\" by)",
+        "Actors": "Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn",
+        "Plot": "An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.",
+        "Language": "English, Russian",
+        "Country": "UK, USA",
+        "Awards": "Nominated for 4 Oscars. Another 14 wins & 7 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "98%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "97/100"
+            }
+        ],
+        "Metascore": "97",
+        "imdbRating": "8.4",
+        "imdbVotes": "458,928",
+        "imdbID": "tt0057012",
+        "Type": "movie",
+        "DVD": "16 Apr 2012",
+        "BoxOffice": "$9,440,272",
+        "Production": "Hawk Films",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    
 ], (err, results) => {
     console.log(results);
 });
