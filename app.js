@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 8000;
 
 // API
 const users = require('./api/users');
-const books = require('./api/books');
+const books = require('./api/favorites');
 
 // Middleware
 app.use(cors());

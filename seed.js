@@ -18,8 +18,7 @@ Movie.create([
         "Country": "United States",
         "Awards": "Nominated for 7 Oscars. 21 wins & 43 nominations total",
         "Poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "9.3/10"
             },
@@ -58,8 +57,7 @@ Movie.create([
         "Country": "USA",
         "Awards": "Won 3 Oscars. Another 29 wins & 30 nominations.",
         "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "9.2/10"
             },
@@ -83,6 +81,864 @@ Movie.create([
         "Website": "N/A",
         "Response": "True"
     },
+    {
+        "Title": "The Dark Knight",
+        "Year": "2008",
+        "Rated": "PG-13",
+        "Released": "18 Jul 2008",
+        "Runtime": "152 min",
+        "Genre": "Action, Crime, Drama, Thriller",
+        "Director": "Christopher Nolan",
+        "Writer": "Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)",
+        "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",
+        "Plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "Language": "English, Mandarin",
+        "Country": "USA, UK",
+        "Awards": "Won 2 Oscars. Another 157 wins & 163 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "9.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "94%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "84/100"
+            }
+        ],
+        "Metascore": "84",
+        "imdbRating": "9.0",
+        "imdbVotes": "2,367,366",
+        "imdbID": "tt0468569",
+        "Type": "movie",
+        "DVD": "14 Jun 2010",
+        "BoxOffice": "$534,858,444",
+        "Production": "Syncopy",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Godfather: Part II",
+        "Year": "1974",
+        "Rated": "R",
+        "Released": "18 Dec 1974",
+        "Runtime": "202 min",
+        "Genre": "Crime, Drama",
+        "Director": "Francis Ford Coppola",
+        "Writer": "Francis Ford Coppola (screenplay by), Mario Puzo (screenplay by), Mario Puzo (based on the novel by)",
+        "Actors": "Al Pacino, Robert Duvall, Diane Keaton, Robert De Niro",
+        "Plot": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+        "Language": "English, Italian, Spanish, Latin, Sicilian",
+        "Country": "USA",
+        "Awards": "Won 6 Oscars. Another 11 wins & 20 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "9.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "96%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "90/100"
+            }
+        ],
+        "Metascore": "90",
+        "imdbRating": "9.0",
+        "imdbVotes": "1,158,075",
+        "imdbID": "tt0071562",
+        "Type": "movie",
+        "DVD": "01 Aug 2013",
+        "BoxOffice": "$47,834,595",
+        "Production": "Paramount Pictures, Coppola Company",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "12 Angry Men",
+        "Year": "1957",
+        "Rated": "Approved",
+        "Released": "10 Apr 1957",
+        "Runtime": "96 min",
+        "Genre": "Crime, Drama",
+        "Director": "Sidney Lumet",
+        "Writer": "Reginald Rose",
+        "Actors": "Henry Fonda, Lee J. Cobb, Martin Balsam",
+        "Plot": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Nominated for 3 Oscars. 17 wins & 13 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "9.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "100%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "96/100"
+            }
+        ],
+        "Metascore": "96",
+        "imdbRating": "9.0",
+        "imdbVotes": "707,719",
+        "imdbID": "tt0050083",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "Orion-Nova Pictures",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Lord of the Rings: The Return of the King",
+        "Year": "2003",
+        "Rated": "PG-13",
+        "Released": "17 Dec 2003",
+        "Runtime": "201 min",
+        "Genre": "Action, Adventure, Drama, Fantasy",
+        "Director": "Peter Jackson",
+        "Writer": "J.R.R. Tolkien (novel), Fran Walsh (screenplay), Philippa Boyens (screenplay), Peter Jackson (screenplay)",
+        "Actors": "Noel Appleby, Ali Astin, Sean Astin, David Aston",
+        "Plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "Language": "English, Quenya, Old English, Sindarin",
+        "Country": "New Zealand, USA",
+        "Awards": "Won 11 Oscars. Another 198 wins & 124 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "93%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "94/100"
+            }
+        ],
+        "Metascore": "94",
+        "imdbRating": "8.9",
+        "imdbVotes": "1,678,741",
+        "imdbID": "tt0167260",
+        "Type": "movie",
+        "DVD": "06 Apr 2010",
+        "BoxOffice": "$377,845,905",
+        "Production": "New Line Cinema, Saul Zaentz Company",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Pulp Fiction",
+        "Year": "1994",
+        "Rated": "R",
+        "Released": "14 Oct 1994",
+        "Runtime": "154 min",
+        "Genre": "Crime, Drama",
+        "Director": "Quentin Tarantino",
+        "Writer": "Quentin Tarantino (stories), Roger Avary (stories), Quentin Tarantino",
+        "Actors": "Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta",
+        "Plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "Language": "English, Spanish, French",
+        "Country": "USA",
+        "Awards": "Won 1 Oscar. Another 69 wins & 75 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "92%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "94/100"
+            }
+        ],
+        "Metascore": "94",
+        "imdbRating": "8.9",
+        "imdbVotes": "1,870,548",
+        "imdbID": "tt0110912",
+        "Type": "movie",
+        "DVD": "21 Apr 2016",
+        "BoxOffice": "$107,928,762",
+        "Production": "A Band Apart, Miramax Films, Jersey Films",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Schindler's List",
+        "Year": "1993",
+        "Rated": "R",
+        "Released": "04 Feb 1994",
+        "Runtime": "195 min",
+        "Genre": "Biography, Drama, History",
+        "Director": "Steven Spielberg",
+        "Writer": "Thomas Keneally (book), Steven Zaillian (screenplay)",
+        "Actors": "Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall",
+        "Plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "Language": "English, Hebrew, German, Polish, Latin",
+        "Country": "USA",
+        "Awards": "Won 7 Oscars. Another 85 wins & 49 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "98%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "94/100"
+            }
+        ],
+        "Metascore": "94",
+        "imdbRating": "8.9",
+        "imdbVotes": "1,241,214",
+        "imdbID": "tt0108052",
+        "Type": "movie",
+        "DVD": "05 Mar 2013",
+        "BoxOffice": "$96,898,818",
+        "Production": "Universal Pictures, Amblin Entertainment",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Inception",
+        "Year": "2010",
+        "Rated": "PG-13",
+        "Released": "16 Jul 2010",
+        "Runtime": "148 min",
+        "Genre": "Action, Adventure, Sci-Fi, Thriller",
+        "Director": "Christopher Nolan",
+        "Writer": "Christopher Nolan",
+        "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Tom Hardy",
+        "Plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "Language": "English, Japanese, French",
+        "Country": "USA, UK",
+        "Awards": "Won 4 Oscars. Another 153 wins & 220 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "87%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "74/100"
+            }
+        ],
+        "Metascore": "74",
+        "imdbRating": "8.8",
+        "imdbVotes": "2,124,584",
+        "imdbID": "tt1375666",
+        "Type": "movie",
+        "DVD": "20 Jun 2013",
+        "BoxOffice": "$292,576,195",
+        "Production": "Syncopy, Warner Bros.",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Fight Club",
+        "Year": "1999",
+        "Rated": "R",
+        "Released": "15 Oct 1999",
+        "Runtime": "139 min",
+        "Genre": "Drama",
+        "Director": "David Fincher",
+        "Writer": "Chuck Palahniuk, Jim Uhls",
+        "Actors": "Brad Pitt, Edward Norton, Meat Loaf",
+        "Plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "Language": "English",
+        "Country": "Germany, United States",
+        "Awards": "Nominated for 1 Oscar. 11 wins & 38 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "79%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "66/100"
+            }
+        ],
+        "Metascore": "66",
+        "imdbRating": "8.8",
+        "imdbVotes": "1,895,995",
+        "imdbID": "tt0137523",
+        "Type": "movie",
+        "DVD": "25 Nov 2015",
+        "BoxOffice": "$37,030,102",
+        "Production": "Art Linson Productions, Fox 2000 Pictures, Taurus Film, New Regency Pictures",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Lord of the Rings: The Fellowship of the Ring",
+        "Year": "2001",
+        "Rated": "PG-13",
+        "Released": "19 Dec 2001",
+        "Runtime": "178 min",
+        "Genre": "Action, Adventure, Drama, Fantasy",
+        "Director": "Peter Jackson",
+        "Writer": "J.R.R. Tolkien (novel), Fran Walsh (screenplay), Philippa Boyens (screenplay), Peter Jackson (screenplay)",
+        "Actors": "Alan Howard, Noel Appleby, Sean Astin, Sala Baker",
+        "Plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "Language": "English, Sindarin",
+        "Country": "New Zealand, USA",
+        "Awards": "Won 4 Oscars. Another 117 wins & 126 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "91%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "92/100"
+            }
+        ],
+        "Metascore": "92",
+        "imdbRating": "8.8",
+        "imdbVotes": "1,699,663",
+        "imdbID": "tt0120737",
+        "Type": "movie",
+        "DVD": "28 Jun 2011",
+        "BoxOffice": "$315,710,750",
+        "Production": "New Line Cinema, WingNut Films, Saul Zaentz Company",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Forrest Gump",
+        "Year": "1994",
+        "Rated": "PG-13",
+        "Released": "06 Jul 1994",
+        "Runtime": "142 min",
+        "Genre": "Drama, Romance",
+        "Director": "Robert Zemeckis",
+        "Writer": "Winston Groom (novel), Eric Roth (screenplay)",
+        "Actors": "Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys",
+        "Plot": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+        "Language": "English",
+        "Country": "USA",
+        "Awards": "Won 6 Oscars. Another 44 wins & 75 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "71%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "82/100"
+            }
+        ],
+        "Metascore": "82",
+        "imdbRating": "8.8",
+        "imdbVotes": "1,861,176",
+        "imdbID": "tt0109830",
+        "Type": "movie",
+        "DVD": "01 Aug 2013",
+        "BoxOffice": "$330,455,270",
+        "Production": "Paramount Pictures",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Good, the Bad and the Ugly",
+        "Year": "1966",
+        "Rated": "R",
+        "Released": "29 Dec 1967",
+        "Runtime": "178 min",
+        "Genre": "Western",
+        "Director": "Sergio Leone",
+        "Writer": "Luciano Vincenzoni (story), Sergio Leone (story), Agenore Incrocci (screenplay), Furio Scarpelli (screenplay), Luciano Vincenzoni (screenplay), Sergio Leone (screenplay)",
+        "Actors": "Eli Wallach, Clint Eastwood, Lee Van Cleef, Aldo Giuffrè",
+        "Plot": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        "Language": "Italian",
+        "Country": "Italy, Spain, West Germany",
+        "Awards": "4 wins & 6 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "97%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "90/100"
+            }
+        ],
+        "Metascore": "90",
+        "imdbRating": "8.8",
+        "imdbVotes": "703,125",
+        "imdbID": "tt0060196",
+        "Type": "movie",
+        "DVD": "27 Aug 2015",
+        "BoxOffice": "$25,100,000",
+        "Production": "Produzioni Europee Associati, Constantin Film",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Lord of the Rings: The Two Towers",
+        "Year": "2002",
+        "Rated": "PG-13",
+        "Released": "18 Dec 2002",
+        "Runtime": "179 min",
+        "Genre": "Action, Adventure, Drama, Fantasy",
+        "Director": "Peter Jackson",
+        "Writer": "J.R.R. Tolkien (novel), Fran Walsh (screenplay), Philippa Boyens (screenplay), Stephen Sinclair (screenplay), Peter Jackson (screenplay)",
+        "Actors": "Bruce Allpress, Sean Astin, John Bach, Sala Baker",
+        "Plot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+        "Language": "English, Sindarin, Old English",
+        "Country": "New Zealand, USA",
+        "Awards": "Won 2 Oscars. Another 124 wins & 138 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "95%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "87/100"
+            }
+        ],
+        "Metascore": "87",
+        "imdbRating": "8.7",
+        "imdbVotes": "1,517,884",
+        "imdbID": "tt0167261",
+        "Type": "movie",
+        "DVD": "28 Jun 2011",
+        "BoxOffice": "$342,551,365",
+        "Production": "New Line Cinema, Saul Zaentz Company",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Matrix",
+        "Year": "1999",
+        "Rated": "R",
+        "Released": "31 Mar 1999",
+        "Runtime": "136 min",
+        "Genre": "Action, Sci-Fi",
+        "Director": "Lana Wachowski, Lilly Wachowski",
+        "Writer": "Lilly Wachowski, Lana Wachowski",
+        "Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+        "Plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "Language": "English",
+        "Country": "United States, Australia",
+        "Awards": "Won 4 Oscars. 42 wins & 51 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "88%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "73/100"
+            }
+        ],
+        "Metascore": "73",
+        "imdbRating": "8.7",
+        "imdbVotes": "1,713,959",
+        "imdbID": "tt0133093",
+        "Type": "movie",
+        "DVD": "01 Jan 2009",
+        "BoxOffice": "$171,479,930",
+        "Production": "Village Roadshow Prod., Silver Pictures",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Goodfellas",
+        "Year": "1990",
+        "Rated": "R",
+        "Released": "21 Sep 1990",
+        "Runtime": "146 min",
+        "Genre": "Biography, Crime, Drama",
+        "Director": "Martin Scorsese",
+        "Writer": "Nicholas Pileggi (book), Nicholas Pileggi (screenplay), Martin Scorsese (screenplay)",
+        "Actors": "Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco",
+        "Plot": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+        "Language": "English, Italian",
+        "Country": "USA",
+        "Awards": "Won 1 Oscar. Another 43 wins & 38 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "96%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "90/100"
+            }
+        ],
+        "Metascore": "90",
+        "imdbRating": "8.7",
+        "imdbVotes": "1,047,519",
+        "imdbID": "tt0099685",
+        "Type": "movie",
+        "DVD": "15 Aug 2008",
+        "BoxOffice": "$46,836,214",
+        "Production": "Warner Brothers",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Star Wars: Episode V - The Empire Strikes Back",
+        "Year": "1980",
+        "Rated": "PG",
+        "Released": "20 Jun 1980",
+        "Runtime": "124 min",
+        "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+        "Director": "Irvin Kershner",
+        "Writer": "Leigh Brackett (screenplay by), Lawrence Kasdan (screenplay by), George Lucas (story by)",
+        "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",
+        "Plot": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",
+        "Language": "English",
+        "Country": "USA, UK",
+        "Awards": "Won 1 Oscar. Another 24 wins & 20 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "94%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "82/100"
+            }
+        ],
+        "Metascore": "82",
+        "imdbRating": "8.7",
+        "imdbVotes": "1,183,029",
+        "imdbID": "tt0080684",
+        "Type": "movie",
+        "DVD": "10 Apr 2015",
+        "BoxOffice": "$292,753,960",
+        "Production": "Lucasfilm Ltd.",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "One Flew Over the Cuckoo's Nest",
+        "Year": "1975",
+        "Rated": "R",
+        "Released": "19 Nov 1975",
+        "Runtime": "133 min",
+        "Genre": "Drama",
+        "Director": "Milos Forman",
+        "Writer": "Lawrence Hauben, Bo Goldman, Ken Kesey",
+        "Actors": "Jack Nicholson, Louise Fletcher, Michael Berryman",
+        "Plot": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Won 5 Oscars. 37 wins & 15 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "94%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "84/100"
+            }
+        ],
+        "Metascore": "84",
+        "imdbRating": "8.7",
+        "imdbVotes": "934,813",
+        "imdbID": "tt0073486",
+        "Type": "movie",
+        "DVD": "30 Nov 2016",
+        "BoxOffice": "$108,981,275",
+        "Production": "Fantasy Films",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Gisaengchung",
+        "Year": "2019",
+        "Rated": "R",
+        "Released": "08 Nov 2019",
+        "Runtime": "132 min",
+        "Genre": "Comedy, Drama, Thriller",
+        "Director": "Bong Joon Ho",
+        "Writer": "Bong Joon Ho, Jin-won Han",
+        "Actors": "Kang-ho Song, Sun-kyun Lee, Yeo-jeong Cho",
+        "Plot": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+        "Language": "Korean, English",
+        "Country": "South Korea",
+        "Awards": "Won 4 Oscars. 304 wins & 266 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "98%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "96/100"
+            }
+        ],
+        "Metascore": "96",
+        "imdbRating": "8.6",
+        "imdbVotes": "613,708",
+        "imdbID": "tt6751668",
+        "Type": "movie",
+        "DVD": "11 Oct 2019",
+        "BoxOffice": "$53,369,749",
+        "Production": "CJ Entertainment, TMS Entertainment",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Interstellar",
+        "Year": "2014",
+        "Rated": "PG-13",
+        "Released": "07 Nov 2014",
+        "Runtime": "169 min",
+        "Genre": "Adventure, Drama, Sci-Fi",
+        "Director": "Christopher Nolan",
+        "Writer": "Jonathan Nolan, Christopher Nolan",
+        "Actors": "Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow",
+        "Plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "Language": "English",
+        "Country": "USA, UK, Canada",
+        "Awards": "Won 1 Oscar. Another 43 wins & 148 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "72%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "74/100"
+            }
+        ],
+        "Metascore": "74",
+        "imdbRating": "8.6",
+        "imdbVotes": "1,569,520",
+        "imdbID": "tt0816692",
+        "Type": "movie",
+        "DVD": "24 May 2016",
+        "BoxOffice": "$188,020,017",
+        "Production": "Lynda Obst Productions, Syncopy",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "City of God",
+        "Year": "2002",
+        "Rated": "R",
+        "Released": "13 Feb 2004",
+        "Runtime": "130 min",
+        "Genre": "Crime, Drama",
+        "Director": "Fernando Meirelles, Kátia Lund(co-director)",
+        "Writer": "Paulo Lins (novel), Bráulio Mantovani (screenplay)",
+        "Actors": "Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen, Douglas Silva",
+        "Plot": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+        "Language": "Portuguese",
+        "Country": "Brazil, France, Germany",
+        "Awards": "Nominated for 4 Oscars. Another 74 wins & 46 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "91%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "79/100"
+            }
+        ],
+        "Metascore": "79",
+        "imdbRating": "8.6",
+        "imdbVotes": "711,639",
+        "imdbID": "tt0317248",
+        "Type": "movie",
+        "DVD": "17 Dec 2015",
+        "BoxOffice": "$7,564,459",
+        "Production": "StudioCanal, Videofilmes Producoes Artisticas, Hank Levine Film, O2 Filmes, Lereby, Lumiere Productions, Globo Filmes, Wild Bunch",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Spirited Away",
+        "Year": "2001",
+        "Rated": "PG",
+        "Released": "28 Mar 2003",
+        "Runtime": "125 min",
+        "Genre": "Animation, Adventure, Family, Fantasy, Mystery",
+        "Director": "Hayao Miyazaki",
+        "Writer": "Hayao Miyazaki",
+        "Actors": "Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naitô",
+        "Plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+        "Language": "Japanese, English",
+        "Country": "Japan",
+        "Awards": "Won 1 Oscar. Another 57 wins & 31 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "97%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "96/100"
+            }
+        ],
+        "Metascore": "96",
+        "imdbRating": "8.6",
+        "imdbVotes": "675,017",
+        "imdbID": "tt0245429",
+        "Type": "movie",
+        "DVD": "19 Dec 2019",
+        "BoxOffice": "$13,750,644",
+        "Production": "Walt Disney Pictures, Tokuma Shoten, Studio Ghibli",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Saving Private Ryan",
+        "Year": "1998",
+        "Rated": "R",
+        "Released": "24 Jul 1998",
+        "Runtime": "169 min",
+        "Genre": "Drama, War",
+        "Director": "Steven Spielberg",
+        "Writer": "Robert Rodat",
+        "Actors": "Tom Hanks, Tom Sizemore, Edward Burns, Barry Pepper",
+        "Plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+        "Language": "English, French, German, Czech",
+        "Country": "USA",
+        "Awards": "Won 5 Oscars. Another 74 wins & 75 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "93%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "91/100"
+            }
+        ],
+        "Metascore": "91",
+        "imdbRating": "8.6",
+        "imdbVotes": "1,268,208",
+        "imdbID": "tt0120815",
+        "Type": "movie",
+        "DVD": "27 May 2016",
+        "BoxOffice": "$217,049,603",
+        "Production": "DreamWorks SKG, Mutual Film Company, Amblin Entertainment, Paramount Pictures, Mark Gordon Productions",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Green Mile",
+        "Year": "1999",
+        "Rated": "R",
+        "Released": "10 Dec 1999",
+        "Runtime": "189 min",
+        "Genre": "Crime, Drama, Fantasy, Mystery",
+        "Director": "Frank Darabont",
+        "Writer": "Stephen King (novel), Frank Darabont (screenplay)",
+        "Actors": "Tom Hanks, David Morse, Bonnie Hunt, Michael Clarke Duncan",
+        "Plot": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+        "Language": "English, French",
+        "Country": "USA",
+        "Awards": "Nominated for 4 Oscars. Another 15 wins & 33 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SX300.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "78%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "61/100"
+            }
+        ],
+        "Metascore": "61",
+        "imdbRating": "8.6",
+        "imdbVotes": "1,179,037",
+        "imdbID": "tt0120689",
+        "Type": "movie",
+        "DVD": "15 Aug 2008",
+        "BoxOffice": "$136,801,374",
+        "Production": "Castle Rock Entertainment, Darkwoods Productions, Warner Brothers",
+        "Website": "N/A",
+        "Response": "True"
+    }
     // Vinny's Code
 
     // Brandon's Code
@@ -103,8 +959,7 @@ Movie.create([
         "Country": "UK, USA",
         "Awards": "Nominated for 4 Oscars. Another 14 wins & 7 nominations.",
         "Poster": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.4/10"
             },
@@ -143,8 +998,7 @@ Movie.create([
         "Country": "USA",
         "Awards": "Nominated for 6 Oscars. Another 4 wins & 10 nominations.",
         "Poster": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.4/10"
             },
@@ -179,8 +1033,7 @@ Movie.create([
         "Country": "United States",
         "Awards": "7 wins & 4 nominations total",
         "Poster": "https://m.media-amazon.com/images/M/MV5BNjViMmRkOTEtM2ViOS00ODg0LWJhYWEtNTBlOGQxNDczOGY3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.4/10"
             },
@@ -219,8 +1072,7 @@ Movie.create([
         "Country": "USA",
         "Awards": "Won 3 Oscars. Another 15 wins & 19 nominations.",
         "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.4/10"
             },
@@ -255,8 +1107,7 @@ Movie.create([
         "Country": "United States",
         "Awards": "Nominated for 5 Oscars. 6 wins & 6 nominations total",
         "Poster": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.4/10"
             },
@@ -291,8 +1142,7 @@ Movie.create([
         "Country": "Denmark, Sweden",
         "Awards": "Nominated for 1 Oscar. Another 37 wins & 69 nominations.",
         "Poster": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -331,8 +1181,7 @@ Movie.create([
         "Country": "USA, Germany",
         "Awards": "Won 1 Oscar. Another 132 wins & 172 nominations.",
         "Poster": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -371,8 +1220,7 @@ Movie.create([
         "Country": "United States",
         "Awards": "Won 1 Oscar. 73 wins & 111 nominations total",
         "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -411,8 +1259,7 @@ Movie.create([
         "Country": "USA",
         "Awards": "Nominated for 1 Oscar. Another 38 wins & 69 nominations.",
         "Poster": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -451,8 +1298,7 @@ Movie.create([
         "Country": "USA",
         "Awards": "Won 5 Oscars. Another 106 wins & 102 nominations.",
         "Poster": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -491,8 +1337,7 @@ Movie.create([
         "Country": "United States",
         "Awards": "Won 2 Oscars. 24 wins & 61 nominations total",
         "Poster": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -531,8 +1376,7 @@ Movie.create([
         "Country": "USA",
         "Awards": "Nominated for 3 Oscars. Another 27 wins & 20 nominations.",
         "Poster": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -571,8 +1415,7 @@ Movie.create([
         "Country": "USA",
         "Awards": "Won 5 Oscars. Another 28 wins & 34 nominations.",
         "Poster": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -611,8 +1454,7 @@ Movie.create([
         "Country": "USA",
         "Awards": "12 wins & 23 nominations.",
         "Poster": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -651,8 +1493,7 @@ Movie.create([
         "Country": "Soviet Union",
         "Awards": "3 wins",
         "Poster": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -687,8 +1528,7 @@ Movie.create([
         "Country": "UK, USA",
         "Awards": "Won 2 Oscars. Another 18 wins & 23 nominations.",
         "Poster": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -727,8 +1567,7 @@ Movie.create([
         "Country": "USA, France, Czechoslovakia, Italy",
         "Awards": "Won 8 Oscars. Another 35 wins & 15 nominations.",
         "Poster": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -767,8 +1606,7 @@ Movie.create([
         "Country": "USA, UK",
         "Awards": "Nominated for 4 Oscars. Another 22 wins & 16 nominations.",
         "Poster": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -807,8 +1645,7 @@ Movie.create([
         "Country": "West Germany",
         "Awards": "Nominated for 6 Oscars. 13 wins & 11 nominations total",
         "Poster": "https://m.media-amazon.com/images/M/MV5BOGZhZDIzNWMtNjkxMS00MDQ1LThkMTYtZWQzYWU3MWMxMGU5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -847,8 +1684,7 @@ Movie.create([
         "Country": "United Kingdom, United States",
         "Awards": "Won 1 Oscar. 16 wins & 11 nominations total",
         "Poster": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -887,8 +1723,7 @@ Movie.create([
         "Country": "USA",
         "Awards": "Nominated for 3 Oscars. Another 8 wins & 7 nominations.",
         "Poster": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -927,8 +1762,7 @@ Movie.create([
         "Country": "United States",
         "Awards": "Nominated for 2 Oscars. 8 wins & 7 nominations total",
         "Poster": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -967,8 +1801,7 @@ Movie.create([
         "Country": "United States",
         "Awards": "Nominated for 2 Oscars. 7 wins & 9 nominations total",
         "Poster": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -1007,8 +1840,7 @@ Movie.create([
         "Country": "USA",
         "Awards": "Won 1 Oscar. Another 10 wins & 13 nominations.",
         "Poster": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
@@ -1047,8 +1879,7 @@ Movie.create([
         "Country": "Germany",
         "Awards": "2 wins.",
         "Poster": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_SX300.jpg",
-        "Ratings": [
-            {
+        "Ratings": [{
                 "Source": "Internet Movie Database",
                 "Value": "8.3/10"
             },
