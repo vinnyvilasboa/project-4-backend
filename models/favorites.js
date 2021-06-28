@@ -1,20 +1,47 @@
-const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
+// const mongoose = require('mongoose');
+// const Schema = mongoose.Schema;
 
+<<<<<<< Updated upstream
+// const favoritesSchema = new Schema({
+//     name: {
+//         type: String,
+//         default: null
+//     },
+//     agency: {
+//         type: String,
+//         default: null
+//     },
+//     image: {
+//         type: String,
+//         default: null
+//     },
+//     wikipedia: {
+//         type: String,
+//         default: null
+//     },
+//     userSchema: {
+//         type: Schema.Types.ObjectId,
+//         ref: 'User Schema '
+//     }
+// });
+
+// const Crew = mongoose.model('favorites', crewSchema);
+// module.exports = favorites;
+=======
 const favoritesSchema = new Schema({
-    name: {
+    title: {
         type: String,
         default: null
     },
-    agency: {
+    year: {
         type: String,
         default: null
     },
-    image: {
+    rated: {
         type: String,
         default: null
     },
-    wikipedia: {
+    genre: {
         type: String,
         default: null
     },
@@ -24,5 +51,6 @@ const favoritesSchema = new Schema({
     }
 });
 
-const Crew = mongoose.model('favorites', crewSchema);
+const favorites = mongoose.model('favorites', favoritesSchema);
 module.exports = favorites;
+>>>>>>> Stashed changes

@@ -18,7 +18,7 @@ const index = async(req, res) => {
     } catch (error) {
         console.log('Error inside of /api/favorites');
         console.log(error);
-        return res.status(400).json({ message: 'Books not found. Please try again.' });
+        return res.status(400).json({ message: 'favorites not found. Please try again.' });
     }
 }
 
@@ -31,21 +31,21 @@ const show = async(req, res) => {
     } catch (error) {
         console.log('Error inside of /api/favorites/:id');
         console.log(error);
-        return res.status(400).json({ message: 'Book not found. Try again...' });
+        return res.status(400).json({ message: 'favorites not found. Try again...' });
     }
 }
 
 const create = async(req, res) => {
-    const { title, author, price, pages, isbn, genre } = req.body;
+    const { title, year, rated, genre } = req.body;
 
     try {
-        const newfavorites = await favorites.create({ title, author, price, pages, isbn, genre });
+        const newfavorites = await favorites.create({ title, year, rated, genre });
         console.log('new favorite created', newfavorites);
         res.json({ favorites: newfavorites });
     } catch (error) {
-        console.log('Error inside of POST of /api/books');
+        console.log('Error inside of POST of /api/favorites');
         console.log(error);
-        return res.status(400).json({ message: 'Book was not created. Please try again...' });
+        return res.status(400).json({ message: 'favorites was not created. Please try again...' });
     }
 }
 
@@ -75,7 +75,7 @@ const update = async(req, res) => {
     } catch (error) {
         console.log('Error inside of UPDATE route');
         console.log(error);
-        return res.status(400).json({ message: 'Book could not be updated. Please try again...' });
+        return res.status(400).json({ message: 'favorites could not be updated. Please try again...' });
     }
 }
 
@@ -89,7 +89,7 @@ const deleteFavorite = async(req, res) => {
     } catch (error) {
         console.log('inside of DELETE route');
         console.log(error);
-        return res.status(400).json({ message: 'Book was not deleted. Please try again...' });
+        return res.status(400).json({ message: 'favorites was not deleted. Please try again...' });
     }
 }
 
@@ -107,6 +107,6 @@ router.post('/', passport.authenticate('jwt', { session: false }), create);
 // PUT -> /api/books
 router.put('/', passport.authenticate('jwt', { session: false }), update);
 // DELETE => /api/books/:id
-router.delete('/:id', passport.authenticate('jwt', { session: false }), deletefavorites);
+router.delete('/:id', passport.authenticate('jwt', { session: false }), deleteFavorite);
 
 module.exports = router;
