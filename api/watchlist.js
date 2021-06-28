@@ -36,10 +36,10 @@ const show = async(req, res) => {
 }
 
 const create = async(req, res) => {
-    const { title, author, price, pages, isbn, genre } = req.body;
+    const { title, year, rated, genre } = req.body;
 
     try {
-        const newwatchlist = await watchlist.create({ title, author, price, pages, isbn, genre });
+        const newwatchlist = await watchlist.create({ title, year, rated, genre });
         console.log('new watchlist created', newwatchlist);
         res.json({ watchlist: newwatchlist });
     } catch (error) {

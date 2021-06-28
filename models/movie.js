@@ -1,20 +1,20 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
-const watchlistSchema = new Schema({
-    title: {
+const movieSchema = new Schema({
+    Title: {
         type: String,
         default: null
     },
-    year: {
+    Year: {
         type: String,
         default: null
     },
-    rated: {
+    Rated: {
         type: String,
         default: null
     },
-    genre: {
+    Genre: {
         type: String,
         default: null
     },
@@ -24,5 +24,5 @@ const watchlistSchema = new Schema({
     }
 });
 
-const watchlist = mongoose.model('watchlist', watchlistSchema);
-module.exports = watchlist;
+const movie = mongoose.model('movie', movieSchema);
+module.exports = movie;
