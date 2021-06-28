@@ -8,7 +8,6 @@ movie.create([
         "Year": "1994",
         "Rated": "R",
         "Genre": "Drama",
-<<<<<<< Updated upstream
         "Director": "Frank Darabont",
         "Writer": "Stephen King, Frank Darabont",
         "Actors": "Tim Robbins, Morgan Freeman, Bob Gunton",
@@ -939,6 +938,1024 @@ movie.create([
         "Response": "True"
     },
     // Vinny's Code
+
+
+    // Brandon's Code
+    {
+        "Title": "Billy Madison",
+        "Year": "1995",
+        "Rated": "PG-13",
+        "Released": "10 Feb 1995",
+        "Runtime": "89 min",
+        "Genre": "Comedy",
+        "Director": "Tamra Davis",
+        "Writer": "Tim Herlihy, Adam Sandler",
+        "Actors": "Adam Sandler, Darren McGavin, Bridgette Wilson-Sampras",
+        "Plot": "In order to inherit his fed up father's hotel empire, an immature and lazy man must repeat grades 1-12 all over again.",
+        "Language": "English, French, Spanish",
+        "Country": "United States",
+        "Awards": "1 nomination",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzcyMjZmNjctNGNhMS00ZmQxLWFkNzQtYTIxYjVkYmU1NmNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "42%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "16/100"
+            }
+        ],
+        "Metascore": "16",
+        "imdbRating": "6.4",
+        "imdbVotes": "133,848",
+        "imdbID": "tt0112508",
+        "Type": "movie",
+        "DVD": "19 Apr 2016",
+        "BoxOffice": "$25,588,734",
+        "Production": "Universal Pictures, Robert Simonds Productions",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Happy Gilmore",
+        "Year": "1996",
+        "Rated": "PG-13",
+        "Released": "16 Feb 1996",
+        "Runtime": "92 min",
+        "Genre": "Comedy, Sport",
+        "Director": "Dennis Dugan",
+        "Writer": "Tim Herlihy, Adam Sandler",
+        "Actors": "Adam Sandler, Christopher McDonald, Julie Bowen, Frances Bay",
+        "Plot": "A rejected hockey player puts his skills to the golf course to save his grandmother's house.",
+        "Language": "English",
+        "Country": "USA",
+        "Awards": "1 win & 4 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZWI2NjliOTYtZjE1OS00YzAyLWJjYTQtYWNmZTQzMTQzNzVjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "61%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "31/100"
+            }
+        ],
+        "Metascore": "31",
+        "imdbRating": "7.0",
+        "imdbVotes": "203,696",
+        "imdbID": "tt0116483",
+        "Type": "movie",
+        "DVD": "15 Jun 2012",
+        "BoxOffice": "$38,824,099",
+        "Production": "Universal Pictures",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Armageddon",
+        "Year": "1998",
+        "Rated": "PG-13",
+        "Released": "01 Jul 1998",
+        "Runtime": "151 min",
+        "Genre": "Action, Adventure, Sci-Fi, Thriller",
+        "Director": "Michael Bay",
+        "Writer": "Jonathan Hensleigh (screenplay), J.J. Abrams (screenplay), Tony Gilroy (adaptation), Shane Salerno (adaptation), Robert Roy Pool (story), Jonathan Hensleigh (story)",
+        "Actors": "Bruce Willis, Billy Bob Thornton, Ben Affleck, Liv Tyler",
+        "Plot": "After discovering that an asteroid the size of Texas is going to impact Earth in less than a month, NASA recruits a misfit team of deep-core drillers to save the planet.",
+        "Language": "English, Russian, Indonesian",
+        "Country": "USA",
+        "Awards": "Nominated for 4 Oscars. Another 15 wins & 36 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMGM0NzE2YjgtZGQ4YS00MmY3LTg4ZDMtYjUwNTNiNTJhNTQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "38%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "42/100"
+            }
+        ],
+        "Metascore": "42",
+        "imdbRating": "6.7",
+        "imdbVotes": "401,826",
+        "imdbID": "tt0120591",
+        "Type": "movie",
+        "DVD": "23 Nov 2015",
+        "BoxOffice": "$201,578,182",
+        "Production": "Touchstone Pictures, Jerry Bruckheimer Films",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Fast and the Furious",
+        "Year": "2001",
+        "Rated": "PG-13",
+        "Released": "22 Jun 2001",
+        "Runtime": "106 min",
+        "Genre": "Action, Crime, Thriller",
+        "Director": "Rob Cohen",
+        "Writer": "Ken Li (magazine article \"Racer X\"), Gary Scott Thompson (screen story), Gary Scott Thompson (screenplay), Erik Bergquist (screenplay), David Ayer (screenplay)",
+        "Actors": "Paul Walker, Vin Diesel, Michelle Rodriguez, Jordana Brewster",
+        "Plot": "Los Angeles police officer Brian O'Conner must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to destroy.",
+        "Language": "English, Spanish",
+        "Country": "USA, Germany",
+        "Awards": "11 wins & 18 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzlkNzVjMDMtOTdhZC00MGE1LTkxODctMzFmMjkwZmMxZjFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "53%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "58/100"
+            }
+        ],
+        "Metascore": "58",
+        "imdbRating": "6.8",
+        "imdbVotes": "357,076",
+        "imdbID": "tt0232500",
+        "Type": "movie",
+        "DVD": "10 Sep 2015",
+        "BoxOffice": "$144,533,925",
+        "Production": "Universal Pictures, Neal H. Moritz Productions, Original Film",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Dictator",
+        "Year": "2012",
+        "Rated": "R",
+        "Released": "16 May 2012",
+        "Runtime": "83 min",
+        "Genre": "Comedy",
+        "Director": "Larry Charles",
+        "Writer": "Sacha Baron Cohen, Alec Berg, David Mandel, Jeff Schaffer",
+        "Actors": "Sacha Baron Cohen, Sayed Badreya, Rocky Citron, Liam Campora",
+        "Plot": "The heroic story of a dictator who risked his life to ensure that democracy would never come to the country he so lovingly oppressed.",
+        "Language": "English, Hebrew, Arabic",
+        "Country": "USA",
+        "Awards": "1 win & 1 nomination.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTlkOWYzZDYtNzQ1MS00YTNkLTkyYTItMjBmNjgyMDBlMjI4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "57%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "58/100"
+            }
+        ],
+        "Metascore": "58",
+        "imdbRating": "6.4",
+        "imdbVotes": "284,865",
+        "imdbID": "tt1645170",
+        "Type": "movie",
+        "DVD": "06 Jun 2014",
+        "BoxOffice": "$59,650,222",
+        "Production": "Four by Two Films, Scott Rudin Productions, Berg Mandel Schaffer",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Interview",
+        "Year": "2014",
+        "Rated": "R",
+        "Released": "24 Dec 2014",
+        "Runtime": "112 min",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Evan Goldberg, Seth Rogen",
+        "Writer": "Dan Sterling, Seth Rogen, Evan Goldberg",
+        "Actors": "James Franco, Seth Rogen, Randall Park",
+        "Plot": "Dave Skylark and his producer Aaron Rapaport run the celebrity tabloid show \"Skylark Tonight\". When they land an interview with a surprise fan, North Korean dictator Jong-Un Kim, they are recruited by the CIA to assassinate him.",
+        "Language": "English, Korean",
+        "Country": "United States",
+        "Awards": "1 win & 6 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzMTcwMzgyMV5BMl5BanBnXkFtZTgwMzAyMzQ2MzE@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "51%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "52/100"
+            }
+        ],
+        "Metascore": "52",
+        "imdbRating": "6.5",
+        "imdbVotes": "310,892",
+        "imdbID": "tt2788710",
+        "Type": "movie",
+        "DVD": "03 Mar 2015",
+        "BoxOffice": "$6,105,175",
+        "Production": "Point Grey",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Pineapple Express",
+        "Year": "2008",
+        "Rated": "R",
+        "Released": "06 Aug 2008",
+        "Runtime": "111 min",
+        "Genre": "Action, Comedy, Crime",
+        "Director": "David Gordon Green",
+        "Writer": "Seth Rogen (screenplay), Evan Goldberg (screenplay), Judd Apatow (story), Seth Rogen (story), Evan Goldberg (story)",
+        "Actors": "Seth Rogen, James Franco, Danny McBride, Kevin Corrigan",
+        "Plot": "A process server and his marijuana dealer wind up on the run from hitmen and a corrupt police officer after he witnesses his dealer's boss murder a competitor while trying to serve papers on him.",
+        "Language": "English, Cantonese, Korean",
+        "Country": "USA",
+        "Awards": "2 wins & 15 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1MTE4NzAwM15BMl5BanBnXkFtZTcwNzg3Mjg2MQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "75%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "64/100"
+            }
+        ],
+        "Metascore": "64",
+        "imdbRating": "6.9",
+        "imdbVotes": "321,109",
+        "imdbID": "tt0910936",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$87,341,380",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "This Is the End",
+        "Year": "2013",
+        "Rated": "R",
+        "Released": "12 Jun 2013",
+        "Runtime": "107 min",
+        "Genre": "Comedy",
+        "Director": "Evan Goldberg, Seth Rogen",
+        "Writer": "Seth Rogen (screenplay), Evan Goldberg (screenplay), Seth Rogen (screen story), Evan Goldberg (screen story), Seth Rogen (short film \"Jay and Seth vs. The Apocalypse\"), Jason Stone (based on the short film \"Jay and Seth vs. The Apocalypse\" by), Evan Goldberg (short film \"Jay and Seth vs. The Apocalypse\")",
+        "Actors": "James Franco, Jonah Hill, Seth Rogen, Jay Baruchel",
+        "Plot": "Six Los Angeles celebrities are stuck in James Franco's house after a series of devastating events just destroyed the city. Inside, the group not only have to face the apocalypse, but themselves.",
+        "Language": "English, Spanish",
+        "Country": "USA",
+        "Awards": "10 wins & 22 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxODE3NjM1Ml5BMl5BanBnXkFtZTcwMzkzNjc4OA@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "83%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "67/100"
+            }
+        ],
+        "Metascore": "67",
+        "imdbRating": "6.6",
+        "imdbVotes": "390,154",
+        "imdbID": "tt1245492",
+        "Type": "movie",
+        "DVD": "01 Feb 2015",
+        "BoxOffice": "$101,470,202",
+        "Production": "Mandate Pictures, Point Grey",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Goon",
+        "Year": "2011",
+        "Rated": "R",
+        "Released": "24 Feb 2012",
+        "Runtime": "92 min",
+        "Genre": "Comedy, Drama, Sport",
+        "Director": "Michael Dowse",
+        "Writer": "Jay Baruchel, Evan Goldberg, Adam Frattasio (based on the book by), Douglas Smith (based on the book by)",
+        "Actors": "Seann William Scott, Jay Baruchel, Alison Pill, Liev Schreiber",
+        "Plot": "Labeled an outcast by his brainy family, a bouncer overcomes long odds to lead a team of under performing misfits to semi-pro hockey glory, beating the crap out of everything that stands in his way.",
+        "Language": "English, French",
+        "Country": "USA, Canada",
+        "Awards": "1 win & 13 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxOTQwMTQ3MF5BMl5BanBnXkFtZTcwMDcyOTQwNw@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "81%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "64/100"
+            }
+        ],
+        "Metascore": "64",
+        "imdbRating": "6.8",
+        "imdbVotes": "84,665",
+        "imdbID": "tt1456635",
+        "Type": "movie",
+        "DVD": "10 Aug 2016",
+        "BoxOffice": "$4,168,528",
+        "Production": "No Trace Camping, Caramel Films",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Miracle",
+        "Year": "2004",
+        "Rated": "PG",
+        "Released": "06 Feb 2004",
+        "Runtime": "135 min",
+        "Genre": "Biography, Drama, History, Sport",
+        "Director": "Gavin O'Connor",
+        "Writer": "Eric Guggenheim",
+        "Actors": "Kurt Russell, Patricia Clarkson, Noah Emmerich, Sean McCann",
+        "Plot": "The true story of Herb Brooks, the player-turned-coach who led the 1980 U.S. Olympic hockey team to victory over the seemingly invincible Soviet squad.",
+        "Language": "English",
+        "Country": "Canada, USA",
+        "Awards": "2 wins & 4 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjEyOTk1OTcyNV5BMl5BanBnXkFtZTYwNjMzNDU3._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "81%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "68/100"
+            }
+        ],
+        "Metascore": "68",
+        "imdbRating": "7.5",
+        "imdbVotes": "49,393",
+        "imdbID": "tt0349825",
+        "Type": "movie",
+        "DVD": "23 Nov 2015",
+        "BoxOffice": "$64,378,093",
+        "Production": "Walt Disney Pictures, Mayhem Pictures, Pop Pop Productions",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Gone in Sixty Seconds",
+        "Year": "2000",
+        "Rated": "PG-13",
+        "Released": "09 Jun 2000",
+        "Runtime": "118 min",
+        "Genre": "Action, Crime, Thriller",
+        "Director": "Dominic Sena",
+        "Writer": "H.B. Halicki, Scott Rosenberg",
+        "Actors": "Nicolas Cage, Angelina Jolie, Giovanni Ribisi",
+        "Plot": "A retired master car thief must come back to the industry and steal fifty cars with his crew in one night to save his brother's life.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "9 wins & 6 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTIwMzExNDEwN15BMl5BanBnXkFtZTYwODMxMzg2._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "25%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "35/100"
+            }
+        ],
+        "Metascore": "35",
+        "imdbRating": "6.5",
+        "imdbVotes": "264,384",
+        "imdbID": "tt0187078",
+        "Type": "movie",
+        "DVD": "01 Feb 2017",
+        "BoxOffice": "$101,648,571",
+        "Production": "Touchstone Pictures, Jerry Bruckheimer Films",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "National Treasure",
+        "Year": "2004",
+        "Rated": "PG",
+        "Released": "19 Nov 2004",
+        "Runtime": "131 min",
+        "Genre": "Action, Adventure, Mystery",
+        "Director": "Jon Turteltaub",
+        "Writer": "Jim Kouf, Cormac Wibberley, Marianne Wibberley",
+        "Actors": "Nicolas Cage, Diane Kruger, Justin Bartha",
+        "Plot": "A historian races to find the legendary Templar Treasure before a team of mercenaries.",
+        "Language": "English, Spanish",
+        "Country": "United States",
+        "Awards": "1 win & 9 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3NTc4OTYxMF5BMl5BanBnXkFtZTcwMjk5NzUyMw@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "46%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "39/100"
+            }
+        ],
+        "Metascore": "39",
+        "imdbRating": "6.9",
+        "imdbVotes": "309,195",
+        "imdbID": "tt0368891",
+        "Type": "movie",
+        "DVD": "30 Nov 2016",
+        "BoxOffice": "$173,008,894",
+        "Production": "Declaration Productions Inc., Touchstone Pictures, Jerry Bruckheimer Films, Junction",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Independence Day",
+        "Year": "1996",
+        "Rated": "PG-13",
+        "Released": "03 Jul 1996",
+        "Runtime": "145 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Roland Emmerich",
+        "Writer": "Dean Devlin, Roland Emmerich",
+        "Actors": "Will Smith, Bill Pullman, Jeff Goldblum",
+        "Plot": "The aliens are coming and their goal is to invade and destroy Earth. Fighting superior technology, mankind's best weapon is the will to survive.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Won 1 Oscar. 35 wins & 35 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMGQwNDNkMmItYWY1Yy00YTZmLWE5OTAtODU0MGZmMzQ1NDdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "67%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "59/100"
+            }
+        ],
+        "Metascore": "59",
+        "imdbRating": "7.0",
+        "imdbVotes": "535,222",
+        "imdbID": "tt0116629",
+        "Type": "movie",
+        "DVD": "18 Sep 2012",
+        "BoxOffice": "$306,169,268",
+        "Production": "Twentieth Century Fox, Centropolis Film Productions, Centropolis Entertainment",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Naked Gun: From the Files of Police Squad!",
+        "Year": "1988",
+        "Rated": "PG-13",
+        "Released": "02 Dec 1988",
+        "Runtime": "85 min",
+        "Genre": "Comedy, Crime",
+        "Director": "David Zucker",
+        "Writer": "Jerry Zucker, Jim Abrahams, David Zucker",
+        "Actors": "Leslie Nielsen, Priscilla Presley, O.J. Simpson",
+        "Plot": "Incompetent police Detective Frank Drebin must foil an attempt to assassinate Queen Elizabeth II.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "1 nomination",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODk1ZWM4ZjItMjFhZi00MDMxLTgxNmYtODFhNWZlZTkwM2UwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "88%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "76/100"
+            }
+        ],
+        "Metascore": "76",
+        "imdbRating": "7.6",
+        "imdbVotes": "156,630",
+        "imdbID": "tt0095705",
+        "Type": "movie",
+        "DVD": "01 Aug 2013",
+        "BoxOffice": "$78,756,177",
+        "Production": "Paramount Pictures",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Airplane!",
+        "Year": "1980",
+        "Rated": "PG",
+        "Released": "02 Jul 1980",
+        "Runtime": "88 min",
+        "Genre": "Comedy",
+        "Director": "Jim Abrahams, David Zucker, Jerry Zucker",
+        "Writer": "Jim Abrahams (written for the screen by), David Zucker (written for the screen by), Jerry Zucker (written for the screen by)",
+        "Actors": "Kareem Abdul-Jabbar, Lloyd Bridges, Peter Graves, Julie Hagerty",
+        "Plot": "A man afraid to fly must ensure that a plane lands safely after the pilots become sick.",
+        "Language": "English",
+        "Country": "USA",
+        "Awards": "Nominated for 1 BAFTA Film Award. Another 3 wins & 6 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjA3YjdhMWEtYjc2Ni00YzVlLWI0MTUtMGZmNTJjNmU0Yzk2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "97%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "78/100"
+            }
+        ],
+        "Metascore": "78",
+        "imdbRating": "7.7",
+        "imdbVotes": "219,966",
+        "imdbID": "tt0080339",
+        "Type": "movie",
+        "DVD": "06 Jun 2014",
+        "BoxOffice": "$83,453,539",
+        "Production": "Paramount Pictures",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Spaceballs",
+        "Year": "1987",
+        "Rated": "PG",
+        "Released": "24 Jun 1987",
+        "Runtime": "96 min",
+        "Genre": "Adventure, Comedy, Sci-Fi",
+        "Director": "Mel Brooks",
+        "Writer": "Mel Brooks, Thomas Meehan, Ronny Graham",
+        "Actors": "Mel Brooks, John Candy, Rick Moranis, Bill Pullman",
+        "Plot": "A star-pilot for hire and his trusty sidekick must come to the rescue of a princess and save Planet Druidia from the clutches of the evil Spaceballs.",
+        "Language": "English",
+        "Country": "USA",
+        "Awards": "1 win.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjVjOGQ0OTctNDhkZC00ZGNiLWI2ZGEtYjZlMWZjOTlkNDlhXkEyXkFqcGdeQXVyNjg1MjEwOTM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "56%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "46/100"
+            }
+        ],
+        "Metascore": "46",
+        "imdbRating": "7.1",
+        "imdbVotes": "175,463",
+        "imdbID": "tt0094012",
+        "Type": "movie",
+        "DVD": "20 Sep 2015",
+        "BoxOffice": "$38,119,483",
+        "Production": "Metro Goldwyn Mayer",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Olympus Has Fallen",
+        "Year": "2013",
+        "Rated": "R",
+        "Released": "22 Mar 2013",
+        "Runtime": "119 min",
+        "Genre": "Action, Thriller",
+        "Director": "Antoine Fuqua",
+        "Writer": "Creighton Rothenberger, Katrin Benedikt",
+        "Actors": "Gerard Butler, Aaron Eckhart, Finley Jacobsen, Dylan McDermott",
+        "Plot": "Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.",
+        "Language": "English, Korean",
+        "Country": "USA",
+        "Awards": "1 win & 5 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTU0NmY4MWYtNzRlMS00MDkxLWJkODYtOTM3NGI2ZDc1NTJhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "50%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "41/100"
+            }
+        ],
+        "Metascore": "41",
+        "imdbRating": "6.5",
+        "imdbVotes": "261,994",
+        "imdbID": "tt2302755",
+        "Type": "movie",
+        "DVD": "07 Sep 2014",
+        "BoxOffice": "$98,925,640",
+        "Production": "Millennium Films",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Law Abiding Citizen",
+        "Year": "2009",
+        "Rated": "R",
+        "Released": "16 Oct 2009",
+        "Runtime": "109 min",
+        "Genre": "Action, Crime, Drama, Thriller",
+        "Director": "F. Gary Gray",
+        "Writer": "Kurt Wimmer",
+        "Actors": "Jamie Foxx, Gerard Butler, Colm Meaney, Bruce McGill",
+        "Plot": "A frustrated man decides to take justice into his own hands after a plea bargain sets one of his family's killers free.",
+        "Language": "English",
+        "Country": "USA",
+        "Awards": "3 wins & 5 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ1NmZlNDktZTg0NS00ZjNhLTk5M2QtNzExNjUzY2MwMjliXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "26%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "34/100"
+            }
+        ],
+        "Metascore": "34",
+        "imdbRating": "7.4",
+        "imdbVotes": "277,477",
+        "imdbID": "tt1197624",
+        "Type": "movie",
+        "DVD": "05 Feb 2016",
+        "BoxOffice": "$73,357,727",
+        "Production": "Warp Films",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Italian Job",
+        "Year": "2003",
+        "Rated": "PG-13",
+        "Released": "30 May 2003",
+        "Runtime": "111 min",
+        "Genre": "Action, Crime, Thriller",
+        "Director": "F. Gary Gray",
+        "Writer": "Troy Kennedy-Martin, Donna Powers, Wayne Powers",
+        "Actors": "Donald Sutherland, Mark Wahlberg, Edward Norton",
+        "Plot": "After being betrayed and left for dead in Italy, Charlie Croker and his team plan an elaborate gold heist against their former ally.",
+        "Language": "English, Russian, Italian",
+        "Country": "United States, France, Italy, United Kingdom, Germany",
+        "Awards": "7 wins & 9 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDYyNzYxNjYtNmYzMC00MTE0LWIwMmYtNTAyZDBjYTIxMTRhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "73%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "68/100"
+            }
+        ],
+        "Metascore": "68",
+        "imdbRating": "7.0",
+        "imdbVotes": "347,290",
+        "imdbID": "tt0317740",
+        "Type": "movie",
+        "DVD": "01 Aug 2013",
+        "BoxOffice": "$106,128,601",
+        "Production": "London Films, Paramount Pictures International",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Shooter",
+        "Year": "2007",
+        "Rated": "R",
+        "Released": "23 Mar 2007",
+        "Runtime": "124 min",
+        "Genre": "Action, Drama, Thriller",
+        "Director": "Antoine Fuqua",
+        "Writer": "Jonathan Lemkin (screenplay), Stephen Hunter (novel)",
+        "Actors": "Mark Wahlberg, Michael Peña, Danny Glover, Kate Mara",
+        "Plot": "A marksman living in exile is coaxed back into action after learning of a plot to kill the President. After being double crossed for the attempt and on the run, he sets out for the real killer and the truth.",
+        "Language": "English",
+        "Country": "USA",
+        "Awards": "2 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMGRjMzY0OGItNDc4YS00OGNlLWI3MGYtZjRkNjdiNWUyNDY4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "47%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "53/100"
+            }
+        ],
+        "Metascore": "53",
+        "imdbRating": "7.2",
+        "imdbVotes": "316,130",
+        "imdbID": "tt0822854",
+        "Type": "movie",
+        "DVD": "01 Aug 2013",
+        "BoxOffice": "$47,003,582",
+        "Production": "Di Bonaventura Pictures",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Four Brothers",
+        "Year": "2005",
+        "Rated": "R",
+        "Released": "01 Jul 2005",
+        "Runtime": "109 min",
+        "Genre": "Action, Crime, Drama",
+        "Director": "John Singleton",
+        "Writer": "David Elliot, Paul Lovett",
+        "Actors": "Mark Wahlberg, Tyrese Gibson, André 3000",
+        "Plot": "When their adoptive mother is gunned down in a store robbery the 'four brothers' investigate the murder for themselves &amp; look for the killers, but not all is what it seems.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "5 wins & 9 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4NzM3Njg2NV5BMl5BanBnXkFtZTcwNjU4NDczMw@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.8/10"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "49/100"
+            }
+        ],
+        "Metascore": "49",
+        "imdbRating": "6.8",
+        "imdbVotes": "136,813",
+        "imdbID": "tt0430105",
+        "Type": "movie",
+        "DVD": "22 Jun 2010",
+        "BoxOffice": "$74,494,381",
+        "Production": "The Orchard",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "2 Fast 2 Furious",
+        "Year": "2003",
+        "Rated": "PG-13",
+        "Released": "06 Jun 2003",
+        "Runtime": "107 min",
+        "Genre": "Action, Crime, Thriller",
+        "Director": "John Singleton",
+        "Writer": "Gary Scott Thompson (characters), Michael Brandt (story), Derek Haas (story), Gary Scott Thompson (story), Michael Brandt (screenplay), Derek Haas (screenplay)",
+        "Actors": "Paul Walker, Tyrese Gibson, Eva Mendes, Cole Hauser",
+        "Plot": "Former cop Brian O'Conner is called upon to bust a dangerous criminal and he recruits the help of a former childhood friend and street racer who has a chance to redeem himself.",
+        "Language": "English, Spanish",
+        "Country": "USA, Germany",
+        "Awards": "4 wins & 13 nominations.",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzExYjcyYWMtY2JkOC00NDUwLTg2OTgtMDI3MGY2OWQzMDE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "36%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "38/100"
+            }
+        ],
+        "Metascore": "38",
+        "imdbRating": "5.9",
+        "imdbVotes": "256,725",
+        "imdbID": "tt0322259",
+        "Type": "movie",
+        "DVD": "01 Jan 2015",
+        "BoxOffice": "$127,154,901",
+        "Production": "Universal/Universal Int",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Zombieland",
+        "Year": "2009",
+        "Rated": "R",
+        "Released": "02 Oct 2009",
+        "Runtime": "88 min",
+        "Genre": "Adventure, Comedy, Fantasy",
+        "Director": "Ruben Fleischer",
+        "Writer": "Rhett Reese, Paul Wernick",
+        "Actors": "Jesse Eisenberg, Emma Stone, Woody Harrelson",
+        "Plot": "A shy student trying to reach his family in Ohio, a gun-toting bruiser in search or the last Twinkie and a pair of sisters striving to get to an amusement park join forces in a trek across a zombie-filled America.",
+        "Language": "English, Spanish, French",
+        "Country": "United States",
+        "Awards": "10 wins & 29 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5MDg0NTQ1N15BMl5BanBnXkFtZTcwMjA4Mjg3Mg@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "89%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "73/100"
+            }
+        ],
+        "Metascore": "73",
+        "imdbRating": "7.6",
+        "imdbVotes": "529,552",
+        "imdbID": "tt1156398",
+        "Type": "movie",
+        "DVD": "16 Apr 2012",
+        "BoxOffice": "$75,590,286",
+        "Production": "Pariah Films",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+        "Year": "2006",
+        "Rated": "R",
+        "Released": "03 Nov 2006",
+        "Runtime": "84 min",
+        "Genre": "Comedy",
+        "Director": "Larry Charles",
+        "Writer": "Sacha Baron Cohen, Anthony Hines, Peter Baynham",
+        "Actors": "Sacha Baron Cohen, Ken Davitian, Luenell",
+        "Plot": "Kazakh TV talking head Borat is dispatched to the United States to report on the greatest country in the world. With a documentary crew in tow, Borat becomes more interested in locating and marrying Pamela Anderson.",
+        "Language": "English, Romanian, Hebrew, Polish, Armenian",
+        "Country": "United States, United Kingdom, Kazakhstan",
+        "Awards": "Nominated for 1 Oscar. 20 wins & 34 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0MTQ3NDQ4Ml5BMl5BanBnXkFtZTcwOTQ3OTQzMw@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "91%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "89/100"
+            }
+        ],
+        "Metascore": "89",
+        "imdbRating": "7.3",
+        "imdbVotes": "385,247",
+        "imdbID": "tt0443453",
+        "Type": "movie",
+        "DVD": "25 Nov 2015",
+        "BoxOffice": "$128,505,958",
+        "Production": "Gold/Miller Productions",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Hit and Run",
+        "Year": "2012",
+        "Rated": "R",
+        "Released": "22 Aug 2012",
+        "Runtime": "100 min",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "David Palmer, Dax Shepard",
+        "Writer": "Dax Shepard",
+        "Actors": "Dax Shepard, Kristen Bell, Bradley Cooper",
+        "Plot": "Former getaway driver Charles Bronson jeopardizes his Witness Protection Plan identity in order to help his girlfriend get to Los Angeles. The feds and Charles' former gang chase them on the road.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "1 win",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjExNTgzMTAzMV5BMl5BanBnXkFtZTcwMDA0ODkxOA@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "48%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "50/100"
+            }
+        ],
+        "Metascore": "50",
+        "imdbRating": "6.1",
+        "imdbVotes": "34,949",
+        "imdbID": "tt2097307",
+        "Type": "movie",
+        "DVD": "23 May 2016",
+        "BoxOffice": "$13,749,300",
+        "Production": "Exclusive Media, Panay Films",
+        "Website": "N/A",
+        "Response": "True"
+    },
+
+    
+
+
+    
+
+  
+
+
+    
+
+
+
+
+
+
+    //Jake's Code
+
+
     {
         "Title": "Se7en",
         "Year": "1995",
@@ -1931,8 +2948,6 @@ movie.create([
         "Website": "N/A",
         "Response": "True"
     },
-=======
->>>>>>> Stashed changes
 
     }
 ])
